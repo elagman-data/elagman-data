@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I’m Elaine.
+I’m Elaine.
 
 I am a computer science graduate learning financial data analytics.
 I use projects to practice data analysis and visualization with real and publicly available datasets.
