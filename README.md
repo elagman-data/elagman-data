@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I’m Elaine.
+
+I am a computer science graduate learning financial data analytics.
+I use projects to practice data analysis and visualization with real and publicly available datasets.
+
+My current focus is on data cleaning, analysis, and reporting using Python, SQL, and BI tools.
+
+Tools I use:
+- Python
+- SQL
+- Power BI
+- Tableau
+- Excel
+
+This GitHub profile is used to document my learning and share my projects.
+
+LinkedIn: www.linkedin.com/in/elainebhellagman
