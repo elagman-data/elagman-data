@@ -30,6 +30,6 @@ Tools I use:
 - Looker Studio
 - Excel
 
-This GitHub profile is used to document my learning and share my projects.
+This GitHub profile is used to document my learning and share some of my personal projects.
 
 LinkedIn: www.linkedin.com/in/elainebhellagman
