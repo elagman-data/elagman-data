@@ -1,35 +1,25 @@
-## Hi there 👋
+## Hi, I’m Elaine 👋
 
-<!--
-**elagman-data/elagman-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science graduate with a focus on Financial Data Analytics, 
+building hands-on projects using real-world and publicly available datasets.
 
-Here are some ideas to get you started:
+My work focuses on data cleaning, exploratory analysis, and reporting to 
+generate insights that support business and decision-making use cases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tools & Technologies
+• Python
+• SQL
+• Power BI
+• Tableau
+• Looker Studio
+• Excel
 
-I’m Elaine.
+📊 Featured Projects
+• SDG 8 Power BI Dashboard – Analysis of global employment and economic growth indicators  
+• Airline Customer Satisfaction Analysis – Python-based EDA and insight generation  
+• Grocery Market Basket Analysis – Apriori algorithm and association rules  
 
-I am a computer science graduate learning financial data analytics.
-I use projects to practice data analysis and visualization with real and publicly available datasets.
+This GitHub profile showcases selected analytics projects demonstrating my
+approach to data analysis, visualization, and insight communication.
 
-My current focus is on data cleaning, analysis, and reporting using Python, SQL, and BI tools.
-
-Tools I use:
-- Python
-- SQL
-- Power BI
-- Tableau
-- Looker Studio
-- Excel
-
-This GitHub profile is used to document my learning and share some of my personal projects.
-
-LinkedIn: www.linkedin.com/in/elainebhellagman
+🔗 LinkedIn: https://www.linkedin.com/in/elainebhellagman
