@@ -27,8 +27,8 @@ Tools I use:
 - SQL
 - Power BI
 - Tableau
-- Excel
 - Looker Studio
+- Excel
 
 This GitHub profile is used to document my learning and share my projects.
 
