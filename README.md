@@ -1,14 +1,10 @@
-<h2 align="center">Hi, I’m Elaine 👋</h2>
+## Hi, I’m Elaine 👋
 
-<p align="center">
 I’m a Computer Science graduate with a focus on Financial Data Analytics,
 building data analysis and BI projects using real-world and publicly available datasets.
 
 My work focuses on data cleaning, exploratory analysis, and reporting to 
 generate insights that support business and decision-making use cases.
-</p>
-
-<hr>
 
 🔧 Tools & Technologies
 - Data Analysis: Python, SQL, Excel
