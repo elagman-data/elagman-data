@@ -6,13 +6,10 @@ building data analysis and BI projects using real-world and publicly available d
 My work focuses on data cleaning, exploratory analysis, and reporting to 
 generate insights that support business and decision-making use cases.
 
-### 🔧 Tools & Technologies
-- Python
-- SQL
-- Power BI
-- Tableau
-- Looker Studio
-- Excel
+🔧 Tools & Technologies
+- Data Analysis: Python, SQL, Excel
+- BI & Visualization: Power BI, Tableau, Looker Studio
+- Workflow: Jupyter Notebook, exploratory analysis, KPI reporting
 
 ### 📊 Featured Projects
 - **SDG 8 Power BI Dashboard** – Analysis of global employment and economic growth indicators  
