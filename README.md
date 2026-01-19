@@ -1,27 +1,47 @@
-## Hi, I’m Elaine 👋
+<h2 align="center">Hi, I’m Elaine 👋</h2>
 
-I’m a Computer Science graduate with a focus on Financial Data Analytics,
-building data analysis and BI projects using real-world and publicly available datasets.
+<p align="center">
+Computer Science graduate pursuing a Master’s in Financial Data Analytics<br>
+Focused on data analysis, BI dashboards, and insight-driven reporting
+</p>
 
-My work focuses on data cleaning, exploratory analysis, and reporting to 
-generate insights that support business and decision-making use cases.
+<hr>
 
-🔧 Tools & Technologies
-- Data Analysis: Python, SQL, Excel
-- BI & Visualization: Power BI, Tableau, Looker Studio
-- Workflow: Jupyter Notebook, exploratory analysis, KPI reporting
+## 🔧 Tools & Technologies
 
-📊 Featured Projects
-- **[SDG 8 Power BI Dashboard](https://github.com/elagman-data/sdg8-powerbi-dashboard)**  
-  Analysis of global employment and economic growth indicators using Power BI
+**Data Analysis**
+- Python · SQL · Excel  
 
-- **[Airline Customer Satisfaction Analysis](https://github.com/elagman-data/airline-customer-satisfaction-analysis)**  
-  Python-based exploratory data analysis of service and operational drivers
+**BI & Visualization**
+- Power BI · Tableau · Looker Studio  
 
-- **[Grocery Market Basket Analysis](https://github.com/elagman-data/grocery-market-basket-analysis)**  
-  Exploratory Apriori analysis of customer purchasing patterns
+**Workflow**
+- Jupyter Notebook · Exploratory Analysis · KPI Reporting
 
-This GitHub profile showcases selected analytics projects demonstrating my
-approach to data analysis, visualization, and insight communication.
+## 📊 Featured Projects
+
+### 🔹 SDG 8 Power BI Dashboard  
+**Analysis of global employment and economic growth indicators**  
+Power BI · Economic Indicators · KPI Dashboards  
+👉 https://github.com/elagman-data/sdg8-powerbi-dashboard
+
+---
+
+### 🔹 Airline Customer Satisfaction Analysis  
+**Exploratory analysis of service and operational drivers of satisfaction**  
+Python · EDA · Customer Analytics  
+👉 https://github.com/elagman-data/airline-customer-satisfaction-analysis
+
+---
+
+### 🔹 Grocery Market Basket Analysis  
+**Exploratory Apriori analysis of customer purchasing patterns**  
+Python · Data Mining · Association Rules  
+👉 https://github.com/elagman-data/grocery-market-basket-analysis
+
+---
+
+📌 This GitHub showcases selected analytics projects demonstrating my approach to
+data analysis, visualization, and insight communication.
 
 🔗 LinkedIn: https://www.linkedin.com/in/elainebhellagman
