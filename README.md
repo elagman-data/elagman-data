@@ -1,7 +1,7 @@
 ## Hi, I’m Elaine 👋
 
-I’m a Computer Science graduate with a focus on Financial Data Analytics, 
-building hands-on projects using real-world and publicly available datasets.
+I’m a Computer Science graduate with a focus on Financial Data Analytics,
+building data analysis and BI projects using real-world and publicly available datasets.
 
 My work focuses on data cleaning, exploratory analysis, and reporting to 
 generate insights that support business and decision-making use cases.
