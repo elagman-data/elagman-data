@@ -6,18 +6,18 @@ building hands-on projects using real-world and publicly available datasets.
 My work focuses on data cleaning, exploratory analysis, and reporting to 
 generate insights that support business and decision-making use cases.
 
-🔧 Tools & Technologies
-• Python
-• SQL
-• Power BI
-• Tableau
-• Looker Studio
-• Excel
+### 🔧 Tools & Technologies
+- Python
+- SQL
+- Power BI
+- Tableau
+- Looker Studio
+- Excel
 
-📊 Featured Projects
-• SDG 8 Power BI Dashboard – Analysis of global employment and economic growth indicators  
-• Airline Customer Satisfaction Analysis – Python-based EDA and insight generation  
-• Grocery Market Basket Analysis – Apriori algorithm and association rules  
+### 📊 Featured Projects
+- **SDG 8 Power BI Dashboard** – Analysis of global employment and economic growth indicators  
+- **Airline Customer Satisfaction Analysis** – Python-based exploratory data analysis and insight generation  
+- **Grocery Market Basket Analysis** – Apriori algorithm and association rule mining  
 
 This GitHub profile showcases selected analytics projects demonstrating my
 approach to data analysis, visualization, and insight communication.
