@@ -11,10 +11,15 @@ generate insights that support business and decision-making use cases.
 - BI & Visualization: Power BI, Tableau, Looker Studio
 - Workflow: Jupyter Notebook, exploratory analysis, KPI reporting
 
-### 📊 Featured Projects
-- **SDG 8 Power BI Dashboard** – Analysis of global employment and economic growth indicators  
-- **Airline Customer Satisfaction Analysis** – Python-based exploratory data analysis and insight generation  
-- **Grocery Market Basket Analysis** – Apriori algorithm and association rule mining  
+📊 Featured Projects
+- **[SDG 8 Power BI Dashboard](https://github.com/elagman-data/sdg8-powerbi-dashboard)**  
+  Analysis of global employment and economic growth indicators using Power BI
+
+- **[Airline Customer Satisfaction Analysis](https://github.com/elagman-data/airline-customer-satisfaction-analysis)**  
+  Python-based exploratory data analysis of service and operational drivers
+
+- **[Grocery Market Basket Analysis](https://github.com/elagman-data/grocery-market-basket-analysis)**  
+  Exploratory Apriori analysis of customer purchasing patterns
 
 This GitHub profile showcases selected analytics projects demonstrating my
 approach to data analysis, visualization, and insight communication.
