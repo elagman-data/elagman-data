@@ -9,7 +9,7 @@ generate insights that support business and decision-making use cases.
 🔧 Tools & Technologies
 - Data Analysis: Python, SQL, Excel
 - BI & Visualization: Power BI, Tableau, Looker Studio
-- Workflow: Jupyter Notebook, exploratory analysis, KPI reporting
+- Development & Workflow: GitHUb, Visual Studio Code, Jupyter Notebook
 
 📊 Featured Projects
 - **[SDG 8 Power BI Dashboard](https://github.com/elagman-data/sdg8-powerbi-dashboard)**  
